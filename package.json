@@ -1,0 +1,25 @@
+{
+  "name": "nuxt3-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.10.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^1.7.1",
+    "@nuxtjs/i18n": "^10.0.2",
+    "eslint": "^9.31.0",
+    "nuxt": "^3.10.0",
+    "vue-i18n": "^9.14.5"
+  }
+}
